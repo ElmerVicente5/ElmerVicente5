@@ -1,12 +1,12 @@
-## Hi 👋 I am Elmer! 
+## Hola 👋 ¡Soy Elmer!
 
-- 🔭  I’m currently working on my pojects personal
-- 🌱 I’m currently learning web development
-- 👯 I'm looking for a job as a programmer
-- 💬 Ask me about C++, Java, or web development
-- 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a java programmer!
+- 🔭 Actualmente estoy trabajando en mis proyectos personales.
+- 🌱 Actualmente estoy aprendiendo desarrollo web.
+- 👯 Busco trabajo como programador
+- 💬 Pregúntame sobre C++, Java o desarrollo web
+- 📫 Cómo contactarme: parte de contacto
+- 😄 Pronombres: Ella/Ella
+- ⚡ Dato curioso: ¡nunca pensé que me convertiría en programador de Java!
 
 <br>
 
