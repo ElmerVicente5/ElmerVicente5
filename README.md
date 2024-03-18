@@ -5,8 +5,9 @@
 - 👯 Busco trabajo como programador
 - 💬 Pregúntame sobre C++, Java o desarrollo web
 - 📫 Cómo contactarme: parte de contacto
-- 😄 Pronombres: Ella/Ella
+- 😄 Pronombres: El
 - ⚡ Dato curioso: ¡nunca pensé que me convertiría en programador de Java!
+- 🫡Actualmente estoy realizando un sitio web, enfocado en un punto de venta
 
 <br>
 
