@@ -1,6 +1,6 @@
 ## Hola 👋 ¡Soy Elmer!
 
-- 🔭 Actualmente estoy trabajando en mis proyectos personales.
+- 🔭 Actualmente soy estudiande del septimo Ciclo de Ingeniería en Sistemas en la Universidad Mariano Galvez de Guatemala
 - 🌱 Actualmente estoy aprendiendo desarrollo web.
 - 👯 Busco trabajo como programador
 - 💬 Pregúntame sobre C++, Java o desarrollo web
@@ -54,21 +54,7 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
-</a>
-</div>
-
-
-
------
 
 <h3 align="center" >Connect with me 🤝 </h3>
 
