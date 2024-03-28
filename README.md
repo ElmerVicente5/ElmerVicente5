@@ -64,14 +64,14 @@
         <a   target="_blank" href="https://www.linkedin.com/in/elmer-vicente-265888241/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<img src="https://skillicons.dev/icons?i=gmail&perline=3" width="40" height="40""></a>
            <a href="mailto:vicente.pelico305@gmail.com"   style="margin-left: 10px;" target="_blank" href="https://">
 		
-      </div>
+    
 
 </p>
-
+  </div>
 
 	
 
-</div>
+
