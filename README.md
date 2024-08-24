@@ -1,6 +1,6 @@
 ## Hola 👋 ¡Soy Elmer!
 
-- 🔭 Actualmente soy estudiande del septimo Ciclo de Ingeniería en Sistemas en la Universidad Mariano Galvez de Guatemala
+- 🔭 Actualmente soy estudiande del octavo Ciclo de Ingeniería en Sistemas en la Universidad Mariano Galvez de Guatemala
 - 🌱 Actualmente estoy aprendiendo desarrollo web.
 - 👯 Busco trabajo como programador
 - 💬 Pregúntame sobre C++, Java o desarrollo web
