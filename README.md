@@ -1,7 +1,7 @@
 ## Hola 👋 ¡Soy Elmer!
 
 - 🔭 Actualmente soy estudiande del noveno Ciclo de Ingeniería en Sistemas en la Universidad Mariano Galvez de Guatemala
-- 🌱 Actualmente estoy trabajando como desarrollador RPA(Automatización de procesos roboticos) en una empresa de prestigio en Guatemala.
+- 🌱 Actualmente estoy laborando como desarrollador RPA(Automatización de procesos roboticos) en una empresa de prestigio en Guatemala.
 - 👯 Busco dar soluciones a tareas repetitivas del ser humano.
 
 
