@@ -24,6 +24,7 @@
      <img src="https://skillicons.dev/icons?i=java&perline=3" width="40" height="40" />
      <img src="https://skillicons.dev/icons?i=php&perline=3" width="40" height="40" />
      <img src="https://skillicons.dev/icons?i=cpp&perline=3" width="40" height="40" />
+     <img src="https://skillicons.dev/icons?i=python&perline=3" width="40" height="40" />
   
 - **Front-End Development**:
 
