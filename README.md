@@ -1,13 +1,9 @@
 ## Hola 👋 ¡Soy Elmer!
 
-- 🔭 Actualmente soy estudiande del octavo Ciclo de Ingeniería en Sistemas en la Universidad Mariano Galvez de Guatemala
-- 🌱 Actualmente estoy aprendiendo desarrollo web.
-- 👯 Busco trabajo como programador
-- 💬 Pregúntame sobre C++, Java o desarrollo web
-- 📫 Cómo contactarme: parte de contacto
-- 😄 Pronombres: El
-- ⚡ Dato curioso: ¡nunca pensé que me convertiría en programador de Java!
-- 🫡Actualmente estoy realizando un sitio web, enfocado en un punto de venta
+- 🔭 Actualmente soy estudiande del noveno Ciclo de Ingeniería en Sistemas en la Universidad Mariano Galvez de Guatemala
+- 🌱 Actualmente estoy trabajando como desarrollador RPA(Automatización de procesos roboticos) en una empresa de prestigio en Guatemala.
+- 👯 Busco dar soluciones a tareas repetitivas del ser humano.
+
 
 <br>
 
